@@ -1,4 +1,4 @@
---Sitas con información completa
+--Citas con información completa
 SELECT 
     c.id_cita,
     CONCAT(p.nombre, ' ', p.apellido) AS paciente,
