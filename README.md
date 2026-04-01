@@ -17,6 +17,7 @@ Este proyecto simula un entorno de producción aplicando buenas prácticas de ba
 ---
 
 ## 🏗 Estructura del proyecto 
+```
 centro-medico-sql/
 ├── README.md
 ├── db/
@@ -31,3 +32,4 @@ centro-medico-sql/
 │   │   ├── citas.sql
 │   │   └── reportes.sql
 │   └── migrations/ (En proceso)
+```
